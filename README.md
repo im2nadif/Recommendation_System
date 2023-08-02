@@ -1,4 +1,4 @@
-# Book Search and Recommendation System using Hybrid Filtering
+# Book Search and Recommendation System
 
 - NLTK - Stop Words
 - TF IDF - PySpark
